@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web design projects
 - 📫 How to reach me: pedro.m.tt1@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: During summer beach days, there's nothing more pleasing that eating fresh peaches with a touch of salty sea water
+- ⚡ Fun fact: During my summer beach days, there's nothing more pleasing than eating fresh peaches with a touch of salty sea water
 
 <!---
 pedromtteixeira/pedromtteixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
